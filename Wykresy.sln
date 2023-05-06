@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wykresy", "Wykresy\Wykresy.csproj", "{FADAE67F-9108-44C8-8E7A-1885745FCFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADAE67F-9108-44C8-8E7A-1885745FCFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADAE67F-9108-44C8-8E7A-1885745FCFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADAE67F-9108-44C8-8E7A-1885745FCFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADAE67F-9108-44C8-8E7A-1885745FCFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B07202-0547-486B-A323-AC4725EC9348}
+	EndGlobalSection
+EndGlobal
